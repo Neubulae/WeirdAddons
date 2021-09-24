@@ -33,7 +33,7 @@ Pistons will extend and retract with 1 tick of delay
 * Categories: `WEIRD`,`CREATIVE`
 
 ## movableMovingPiston
-Makes moving_piston (B36) movable. Requires MovableBlockEntities to be on
+Makes moving_piston (B36) movable. Requires MovableBlockEntities to be on. Very unstable and made for the fun of proving it can be done!
 * Type: `boolean`
 * Default value: `false`
 * Required options: `true`,`false`
